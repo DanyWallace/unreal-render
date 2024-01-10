@@ -1,0 +1,11 @@
+{
+    "master_url": "site.com",
+    "nodes": [
+        {
+            "name": "example",
+            "url": "example.site.com",
+            "ssh_port": 9047
+        }
+    ],
+    "user": "example-user"
+}
